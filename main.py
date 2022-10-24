@@ -6,10 +6,6 @@ from tkinter import ttk, filedialog
 import customtkinter
 from PIL import Image
 
-# auto-py-to-exe
-# <a href="https://www.flaticon.com/free-icons/shipping-and-delivery" title="shipping and delivery icons">Shipping and delivery icons created by Azland Studio - Flaticon</a>
-# c:\users\markflynnman\pycharmprojects\webptopng\venv\lib\site-packages
-
 BACKGROUND = "#fafafa"
 BLUE = "#1F6AA5"
 

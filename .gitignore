@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 output/
-test.py
-icon.png
+tests/test.py
+tests/test resources/icon.png
+tests/
 
 # Default ignored files
 .idea/shelf/
