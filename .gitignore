@@ -129,8 +129,6 @@ dmypy.json
 .pyre/
 
 output/
-tests/test.py
-tests/test resources/icon.png
 tests/
 
 # Default ignored files
